@@ -20,8 +20,8 @@ docker_run: docker_build
 
 	docker run \ 
 
-       --name hello-world-printer-dev \ 
+	--name hello-world-printer-dev \ 
 
-   -p 5000:5000 \ 
+	-p 5000:5000 \ 
 
-   -d hello-world-printer 
+	-d hello-world-printer 
