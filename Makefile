@@ -18,7 +18,7 @@ docker_build:
 	
 docker_run: docker_build
 
-docker run \ 
+	docker run \ 
 
        --name hello-world-printer-dev \ 
 
